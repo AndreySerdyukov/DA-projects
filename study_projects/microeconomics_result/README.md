@@ -6,4 +6,3 @@ This project analyzes the results of a microeconomics exam, focusing on statisti
 
 - Conduct statistical analysis on exam results
 - Visualize the data to identify key insights and trends
-- Provide interpretations of the results
