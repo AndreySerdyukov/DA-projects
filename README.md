@@ -14,7 +14,6 @@ This folder contains various data analysis projects built using Python. The proj
 - **pandas**: For data manipulation and analysis
 - **numpy**: For numerical computing
 - **matplotlib**: For data visualization
-- **scikit-learn**: For machine learning models (where applicable)
 - **statsmodels**: For statistical analysis
 - **scipy**: For statistical analysis
 
