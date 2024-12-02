@@ -6,9 +6,7 @@ This project calculates the reserves needed to compensate potential loan losses,
 
 The calculation of expected losses involves the following formula:
 
-\[
-EL = EAD \times PD \times LGD
-\]
+`EL = EAD × PD × LGD`
 
 Where:
 - **EAD (Exposure at Default)**: The outstanding loan amount at the time of default.
