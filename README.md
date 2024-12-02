@@ -21,7 +21,7 @@ This folder contains various data analysis projects built using Python. The proj
 ## How to Run
 ```
 git clone https://github.com/AndreySerdyukov/DA-projects
-cd ML-projects
+cd DA-projects
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 jupyter lab
