@@ -19,7 +19,6 @@ This folder contains various data analysis projects built using Python. The proj
 - **scipy**: For statistical analysis
 
 ## How to Run
-## How to Run
 ```
 git clone https://github.com/AndreySerdyukov/DA-projects
 cd ML-projects
